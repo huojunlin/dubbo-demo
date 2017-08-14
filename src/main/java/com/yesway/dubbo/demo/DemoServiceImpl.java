@@ -14,4 +14,9 @@ public class DemoServiceImpl implements DemoService {
 		info.getMsgs().add("处理完毕");
 		return info;
 	}
+	
+	// Git Test
+	public void testGit() {
+		
+	}
 }
