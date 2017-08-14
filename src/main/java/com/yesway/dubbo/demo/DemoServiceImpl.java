@@ -19,4 +19,9 @@ public class DemoServiceImpl implements DemoService {
 	public void testGit() {
 		
 	}
+	
+	// Git Branch Test
+	public void testGitBranch() {
+		
+	}
 }
